@@ -1,0 +1,23 @@
+.recipe {
+  box-shadow: 0px 5px 20px gray;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background: white;
+  align-items: center;
+  border-radius: 50px;
+  font-family: "Delius", cursive;
+  padding: 10px;
+  color: rgb(233, 126, 5);
+  width: 500px;
+}
+
+.slika {
+  border-radius: 20%;
+}
+
+.recept {
+  width: 150px;
+  color: black;
+}
